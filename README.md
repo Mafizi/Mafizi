@@ -22,4 +22,4 @@
 
 ![codewars](https://www.codewars.com/users/Mafizi/badges/large)
 </br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mafizi?theme=nord&font=Source%20Sans%20Pro&ext=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Mafizi?theme=nord&font=Source%20Sans%20Pro&ext=activity)](https://leetcode.com/Mafizi/)
